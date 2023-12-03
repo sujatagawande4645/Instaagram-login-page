@@ -1,0 +1,432 @@
+body{
+    background-color: rgb(42, 6, 53);
+}
+.box1{
+    border: 1px solid white;
+    width: 400px;
+    height:550px;
+    position: absolute;
+    left: 15px;
+    top: 30px;
+    box-shadow: 0px 0px 30px rgb(241, 14, 101);
+    background-color: rgb(250, 250, 250);
+}
+.instaa #image1{
+    width: 100%;
+    height: 850px;
+ 
+}
+.box1 #uname{
+position: absolute;
+width: 250px;
+height: 25px;
+
+}
+.box1 #insta1{
+    position: absolute;
+    width: 250px;
+    margin-left: 55px;
+    height: 50px;
+    margin-top: 20px;
+}
+.box1 #uname{
+    position: absolute;
+    width: 75%;
+    height: 40px;
+    margin-top: 100px;
+    margin-left: 30px;
+    border-radius: 0.5rem;
+    border: 1px solid rgb(255, 255, 255);
+    background-color:  rgb(236, 235, 235);
+    padding-left: 10px;
+    font-size: 15px;
+    box-shadow: 0px 0px 10px green;
+}
+.box1 #password{
+    position: absolute;
+    width: 75%;
+    height: 40px;
+    margin-top: 160px;
+    margin-left: 30px;
+    border-radius: 0.5rem;
+    border: 1px solid grey;
+    background-color: rgb(236, 235, 235);
+    padding-left: 10px;
+    font-size: 15px;
+}
+.box1 #login{
+    position: absolute;
+    width: 79%;
+    height: 40px;
+    margin-top: 220px;
+    margin-left: 30px;
+    border-radius: 0.5rem;
+    border: 1px solid grey;
+    background-color: rgb(97, 97, 255);
+    padding-left: 10px;
+    font-size: 15px;
+    color: white;
+}
+.box1 #p1{
+    position: absolute;
+    margin-top: 280px;
+    margin-left: 40px;
+
+}
+.box1 #line1{
+    position: relative;
+    border: 1px solid lightgrey;
+    left: 20px;
+    top: 322px;
+    width: 141px;
+}
+.box1 #p2{
+    position: absolute;
+    top: 295px;
+    left: 175px;
+    font-size: 17px;
+    color: grey;
+}
+.box1 #l2{
+    position: relative;
+    border: 1px solid lightgrey;
+    margin-left: 220px;
+    top: 321px;
+    width: 140px;
+}
+.box1 #fbook{
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    top: 360px;
+    left: 90px;
+}
+.box1 #p3{
+    position: absolute;
+    top: 350px;
+    left: 140px;
+    font-size: 17px;
+    color: black;
+}
+.box1 #p4{
+    position: absolute;
+    top: 450px;
+    left: 100px;
+    font-size: 17px;
+    color: black;
+}
+.box2{
+    border: 1px solid white;
+    width: 380px;
+    height:550px;
+    position: absolute;
+    left: 470px;
+    top: 30px;
+    background-color: rgb(250, 250, 250) ;
+    box-shadow: 0px 0px 30px rgb(189, 35, 61);
+}
+
+
+.box2 .boxa{
+    position: absolute;
+    height: 50px;
+    width: 380px;
+    top: 30px;
+    right: 0px;
+    border: 1px solid white;
+
+}
+.box2 .boxb{
+    position: absolute;
+    height: 90px;
+    width: 380px;
+    top: 82px;
+    right: 0px;
+    border: 1px solid white;
+
+}
+.box2 .boxc{
+    position: absolute;
+    height: 315px;
+    width: 380px;
+    top: 172px;
+    border: 1px solid white ;
+    right: 0px;
+
+
+}
+.box2 .boxa #image2{
+    position: absolute;
+    left: 150px;
+    top: 10px ;
+    width: 110px;
+}
+.box2 .boxa #image3{
+    position: absolute;
+    left: 10px;
+    top: 10px;
+}
+.box2 .boxa #image4{
+    position: absolute;
+    height: 40px;
+    width: 40px;
+    left: 340px;
+    top: 5px;
+
+}
+.box2 #image5{
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    left: 290px;
+}
+.box2 #image6{
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    left: 235px;
+}
+.box2 #p5{
+    position: absolute;
+    font-size: 20px;
+    bottom: 500px;
+    left: 330px;
+
+}
+.box2 .boxb #p6{
+    position: absolute;
+    bottom: 53px;
+    font-size: 19px;
+}
+.box2 .boxb #image7{
+    position: absolute;
+    height: 100px;
+    width: 100px;
+}
+.box2 .boxb #image8{
+    position: absolute;
+    height: 70px;
+    width: 70px;
+    left: 100px;
+    border-radius: 10rem;
+    top: 10px;
+    border: 3px solid rgb(82, 236, 62);
+}
+.box2 .boxb #image9{
+    position: absolute;
+    height: 70px;
+    width: 80px;
+    left: 180px;
+    border-radius: 10rem;
+    top: 10px;
+    border: 3px solid rgb(62, 108, 236);
+}
+.box2 .boxb #image10{
+    position: absolute;
+    height: 70px;
+    width: 70px;
+    left: 270px;
+    border-radius: 10rem;
+    top: 10px;
+    border: 3px solid rgb(236, 62, 62);
+}
+.box2 .boxc #image11{
+    position: absolute;
+    height: 40px;
+    width: 40px;
+    border-radius: 10rem;
+    border: 3px solid white;
+    top: 10px;
+}
+.box2 .boxc #p7{
+    position: absolute;
+    height: 10px;
+    width: 40px;
+    top: 7px;
+    left: 50px;
+}
+.box2 .boxc #image12{
+    position: absolute;
+    height: 255px;
+    width: 379px;
+    top: 60px;
+
+}
+
+.box2 #image13{
+    position: absolute;
+    height: 40px;
+    width: 40px;
+    top: 500px;
+    left: 5px;
+}
+.box2 #image14 {
+    position: absolute;
+    height: 40px;
+    width: 40px;
+    top: 505px;
+    left: 80px;
+}
+.box2 #image15{
+    position: absolute;
+    height: 40px;
+    width: 40px;
+    top: 505px;
+    left: 150px;
+}
+.box2 #image16{
+    position: absolute;
+    height: 45px;
+    width: 45px;
+    top: 505px;
+    left: 230px;
+}
+.box2 #image17{
+    position: absolute;
+    height: 36px;
+    width: 36px;
+    top: 505px;
+    left: 310px;
+}
+.box3{
+    border: 1px solid white;
+    width: 380px;
+    height:550px;
+    position: absolute;
+    left: 900px;
+    top: 30px;
+    background-color: rgb(250, 250, 250) ;
+    box-shadow: 0px 0px 30px rgb(189, 35, 61);
+}
+.box3 #image18{
+    position: absolute;
+    right: 0px;
+}.box3 #image19{
+    position: absolute;
+    right: 0px;
+    top: 275px;
+}
+.box3 #image20{
+    position: absolute;
+    width: 60px;
+    height: 40px;
+}
+.box3 #image21{
+    position: absolute;
+    width: 45px;
+    height: 20px;
+    left: 70px;
+    top: 10px;
+}.box3 #p8{
+    position: absolute;
+    right: 7px;
+    bottom: 500px;
+    font-size: 23px;
+    color: white;
+}
+.box3 .box3a{
+    border: 2px solid black;
+    height: 30px;
+    width: 250px;
+    position: absolute;
+    bottom: 7px;
+    left: 10px;
+    border-radius: 5rem;
+}
+.box3 .box3a #p10{
+    position: absolute;
+    left: 10px;
+    bottom: -6px;
+}
+.box3 .box3a #image22{
+    position: absolute;
+    height: 40px;
+    width: 35px;
+    border-radius: 10rem;
+    bottom: 50px;
+}
+.box3 .box3a #p9{
+    position: absolute;
+    bottom: 45px;
+    left: 40px;
+    color: white;
+}
+.box3 .box3a #image23{
+    position: absolute;
+    bottom: 100px;
+    left: 10px;
+    height: 20px;
+    width: 20px;
+
+}
+.box3 .box3a #image24{
+    position: absolute;
+    bottom: 100px;
+    left: 37px;
+    height: 20px;
+    width: 20px;
+
+}
+.box3 .box3a #image25{
+    position: absolute;
+    bottom: 100px;
+    left: 65px;
+    height: 20px;
+    width: 20px;
+
+}
+.box3 .box3a #image26{
+    position: absolute;
+    bottom: 130px;
+    height: 40px;
+    width: 70px;
+    left: 8px;
+
+}
+.box3 .box3a #image27{
+    position: absolute;
+    height: 40px;
+    width: 40px;
+    bottom: 0.5px;
+   left: 300px;
+}
+.box3 .box3a #image28{
+    position: absolute;
+    height: 40px;
+    width: 40px;
+    bottom: 0.5px;
+   left: 255px;
+}
+.box4 #image29{
+    position: absolute;
+    height: 90px;
+    width: 90px;
+    bottom: -70px;
+    left: 400px;
+}
+.box4 #p10{
+    position: absolute;
+    font-size: 20px;
+    bottom:-70px ;
+    left: 500px;
+}
+.box4 #b1{
+    position: absolute;
+    width: 80px;
+    height: 25px;
+    bottom: -10px;
+    border: 1px solid rgb(9, 114, 65);
+    left: 750px;
+    background-color: rgb(9, 114, 65);
+    color: white;
+    border-radius: 5rem ;
+    border-color: rgb(9, 114, 65);
+    box-shadow: 0px 3px 3px rgb(45, 90, 45);
+}
+.box4 #p11{
+    position: absolute;
+    bottom: -120px;
+    left: 400px;
+    color: white;
+
+}
